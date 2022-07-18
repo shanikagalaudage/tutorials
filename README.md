@@ -1,2 +1,2 @@
-# tutorials
-various tutorial and lecture materials
+# Tutorials  (under construction)
+Hosts various tutorial and lecture materials
